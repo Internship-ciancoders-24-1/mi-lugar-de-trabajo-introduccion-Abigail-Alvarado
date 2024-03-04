@@ -21,6 +21,7 @@ numeros: 4,7,8,13.5 luego el ciclo busca si es una suma o resta y procede a hace
 
 
 Resultados:
-![Captura desde 2024-03-04 12-48-05](https://github.com/Internship-ciancoders-24-1/mi-lugar-de-trabajo-introduccion-Abigail-Alvarado/assets/74523252/28bfe67b-260a-428b-8ab5-8c82f7437d64)
 
-![Captura desde 2024-03-04 12-48-36](https://github.com/Internship-ciancoders-24-1/mi-lugar-de-trabajo-introduccion-Abigail-Alvarado/assets/74523252/28bfe67b-260a-428b-8ab5-8c82f7437d64)
+![Captura desde 2024-03-04 12-48-05](https://github.com/Internship-ciancoders-24-1/mi-lugar-de-trabajo-introduccion-Abigail-Alvarado/assets/74523252/66276b2f-6cd9-44d3-8c43-f5ede7f7844b)
+
+![Captura desde 2024-03-04 12-48-36](https://github.com/Internship-ciancoders-24-1/mi-lugar-de-trabajo-introduccion-Abigail-Alvarado/assets/74523252/f51b0ba8-1a2c-4d6a-aaaa-2366afbb16b2)
